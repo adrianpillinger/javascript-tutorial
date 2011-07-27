@@ -1,3 +1,3 @@
-jQuery(document).ready(function() {
-    // do something here
-});
+$(document).ready(function() {
+   $("#orderedlist").addClass("red");
+ });
