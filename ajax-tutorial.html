@@ -4,11 +4,39 @@
 	<meta charset="utf-8" />
 	<title>ajax-tutorial</title>
 	<meta name="generator" content="BBEdit 9.6" />
-	<script src="jquery.js" type="text/javascript" charset="utf-8"></script>
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.css" />
+	<script src="http://code.jquery.com/jquery-1.6.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.js"></script>
 	<script src="custom.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body>
-<div id="images"/>
 
+	
+	<div data-role="page" data-theme="b">
+        <div data-role="header" data-theme="b">
+            <h1>My Site</h1>
+        </div>
+        <div data-role="content">
+            <ul data-role="listview" data-inset="true" data-theme="c" data-dividertheme="a">
+                <li data-role="list-divider">Transition Effects</li>
+                <li><a href="starterkit.html" data-transition="slide">Slide</a></li>
+                <li><a href="effects.php?id=slideup" data-transition="slideup">Slide Up</a></li>
+                <li><a href="effects.php?id=slidedown" data-transition="slidedown">Slide Down</a></li>
+                <li><a href="effects.php?id=pop" data-transition="pop">Pop</a></li>
+                <li><a href="effects.php?id=flip" data-transition="flip">Flip</a></li>
+                <li><a href="effects.php?id=fade" data-transition="fade">Fade</a></li>
+            </ul>
+            <br /><br />
+            <ul data-role="listview" data-dividertheme="e">
+                <li data-role="list-divider">Seamless List (margin-less)</li>
+                <li><a href="#" data-transition="slide">Example Item 1</a></li>
+                <li><a href="#" data-transition="slide">Example Item 2</a></li>
+                <li><a href="#" data-transition="slide">Example Item 3</a></li>
+            </ul>
+        </div>
+        <div data-role="footer" data-position="fixed">
+            <h1>&copy; Copyright Info or Site URL</h1>
+        </div>
+    </div>
 </body>
 </html>

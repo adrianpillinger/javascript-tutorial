@@ -1,7 +1,7 @@
  $(document).ready(function() {
  	 $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?",
 	  {
-		tags: "twitter",
+		tags: "peanut butter",
 		tagmode: "any",
 		format: "json"
 	  },
@@ -13,6 +13,13 @@
 	  });
  });
  
+$(document).ready(function(){
+   $("a").toggle(function(){
+     $(".stuff").animate({ height: 'hide', opacity: 'hide' }, 'slow');
+   },function(){
+     $(".stuff").animate({ height: 'show', opacity: 'show' }, 'slow');
+   });
+ });
 
   
   //	 $.getJSON('ajax/test.json', function(data) {
