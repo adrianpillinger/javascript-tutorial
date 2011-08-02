@@ -2,7 +2,7 @@
     "formName" : "Questions",
     "questions" : [
                     {"question" : "What is your name?", "answerType" : "FREE_TEXT", "min" : 0, "max" : 255},
-                    {"question" : "What is your date of birth?", "answerType" : "DATE"}
+                    {"question" : "What is your date of birth?", "answerType" : "DATE"},
                     {"question" : "Gender?", "answerType" : "ENUM", "values" : ["Male", "Female"]}
                 ]
 } 
