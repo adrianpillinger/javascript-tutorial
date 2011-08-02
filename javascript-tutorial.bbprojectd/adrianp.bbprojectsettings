@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:adrianp</key>
+	<false/>
+	<key>ExpandedEditorWidth:adrianp:displays([(0, 0), (1280, 800)])</key>
+	<integer>640</integer>
+	<key>ExpandedItems:adrianp</key>
+	<array>
+		<string>C5C63E74-5624-40B8-988A-27EFEC8A7F2B</string>
+	</array>
+	<key>FileFilterID:adrianp</key>
+	<string>msng</string>
+	<key>OpenDocuments:adrianp</key>
+	<array>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
+			OtwUSCsAAACQkHYKZm9ybXMuanNvbgAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJCs
+			v8peM98AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABGRv
+			dWcAEAAIAADGOs4EAAAAEQAIAADKXiXPAAAAAQAYAJCQdgCQBdwA
+			j/DzAFuusQAKmrsAAIXtAAIAW01hY2ludG9zaCBIRDpVc2VyczoA
+			YWRyaWFucDoAZGV2ZWxvcG1lbnQ6AGphdmFzY3JpcHQ6AGphdmFz
+			Y3JpcHQtdHV0b3JpYWw6AGRvdWc6AGZvcm1zLmpzb24AAA4AFgAK
+			AGYAbwByAG0AcwAuAGoAcwBvAG4ADwAaAAwATQBhAGMAaQBuAHQA
+			bwBzAGgAIABIAEQAEgBIVXNlcnMvYWRyaWFucC9kZXZlbG9wbWVu
+			dC9qYXZhc2NyaXB0L2phdmFzY3JpcHQtdHV0b3JpYWwvZG91Zy9m
+			b3Jtcy5qc29uABMAAS8AABUAAgAO//8AAA==
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/adrianp/development/javascript/javascript-tutorial/doug/forms.json</string>
+			<key>RelativePath</key>
+			<string>./doug/forms.json</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHOAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
+			OtwUSCsAAACQkHYMZG91Z3N0aXBzLmpzAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJCs
+			vspeM98AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABGRv
+			dWcAEAAIAADGOs4EAAAAEQAIAADKXiXPAAAAAQAYAJCQdgCQBdwA
+			j/DzAFuusQAKmrsAAIXtAAIAXU1hY2ludG9zaCBIRDpVc2VyczoA
+			YWRyaWFucDoAZGV2ZWxvcG1lbnQ6AGphdmFzY3JpcHQ6AGphdmFz
+			Y3JpcHQtdHV0b3JpYWw6AGRvdWc6AGRvdWdzdGlwcy5qcwAADgAa
+			AAwAZABvAHUAZwBzAHQAaQBwAHMALgBqAHMADwAaAAwATQBhAGMA
+			aQBuAHQAbwBzAGgAIABIAEQAEgBKVXNlcnMvYWRyaWFucC9kZXZl
+			bG9wbWVudC9qYXZhc2NyaXB0L2phdmFzY3JpcHQtdHV0b3JpYWwv
+			ZG91Zy9kb3Vnc3RpcHMuanMAEwABLwAAFQACAA7//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/adrianp/development/javascript/javascript-tutorial/doug/dougstips.js</string>
+			<key>RelativePath</key>
+			<string>./doug/dougstips.js</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>ShowInvisibles:adrianp</key>
+	<false/>
+	<key>ShowSCMData:adrianp</key>
+	<false/>
+	<key>TextFilesOnly:adrianp</key>
+	<true/>
+	<key>ToolbarVisible:adrianp</key>
+	<true/>
+	<key>ViewSplitterPosition:adrianp</key>
+	<real>0.26011559367179871</real>
+	<key>WindowFrame:adrianp:displays([(0, 0), (1280, 800)])</key>
+	<string>rect(44,56,738,921)</string>
+</dict>
+</plist>

@@ -2,7 +2,7 @@ $(document).ready(function() {
     $.ajax({
         url: 'forms.json',
         success: function( data ) {
-            var questions = data['questions'];
+        	var questions = data['questions'];
             
             // form title
             $('#questions').append('<h1>' + data['formName'] + '</h1>');
@@ -10,7 +10,16 @@ $(document).ready(function() {
             // questions
             for (i=0;i<questions.length;i++)
             {
-                $('#questions').append('<p/>' + questions[i]["question"]);
+            	var thisQuestion = questions[i];
+                $('#questions').append('<p/>' + thisQuestion["question"]);
+                if (thisQuestion["type"] === "ENUM")
+                {
+                	var answerId = "answer_"+i;
+	                $('#questions').append("<input id='"+answerId+"'></div>");
+                	$('#'+answerId).autocomplete({
+						source: thisQuestion["values"]
+					});
+                }
             }
         },
         error: function(data) {
