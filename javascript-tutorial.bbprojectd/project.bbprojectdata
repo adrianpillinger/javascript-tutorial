@@ -58,6 +58,39 @@
 			<key>ItemType</key>
 			<string>PackageReference</string>
 		</dict>
+		<key>1142FC22-A713-472C-81E8-E9126D796E19</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAF0AAIAAQxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADGOtwUSCsAAACQvz8DY3NzAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAJDAe8peOyYAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2pxdWVyeS11aS0x
+				AAAQAAgAAMY6zgQAAAARAAgAAMpeLRYAAAABABAAkL8/
+				AAqa1QAKmrsAAIXtAAIAOE1hY2ludG9zaCBIRDpVc2Vy
+				czoAYWRyaWFucDoARG93bmxvYWRzOgBqcXVlcnktdWkt
+				MToAY3NzAA4ACAADAGMAcwBzAA8AGgAMAE0AYQBjAGkA
+				bgB0AG8AcwBoACAASABEABIAJ1VzZXJzL2FkcmlhbnAv
+				RG93bmxvYWRzL2pxdWVyeS11aS0xL2NzcwAAEwABLwAA
+				FQACAA7//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/adrianp/Downloads/jquery-ui-1/css/</string>
+				<key>RelativePath</key>
+				<string>../../../Downloads/jquery-ui-1/css</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>css</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
 		<key>249D31AF-8FE9-4A38-8023-7B513F56087B</key>
 		<dict>
 			<key>ItemData</key>
@@ -162,6 +195,109 @@
 			<string>custom.js</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
+		</dict>
+		<key>4C6D10CF-6CF6-4EE7-A8FB-7E3D7FBC0460</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADGOtwUSCsAAACQkHYKaW5kZXguaHRtbAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAJCswMpeM99URVhUUipjaP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABGRvdWcAEAAIAADG
+				Os4EAAAAEQAIAADKXiXPAAAAAQAYAJCQdgCQBdwAj/Dz
+				AFuusQAKmrsAAIXtAAIAW01hY2ludG9zaCBIRDpVc2Vy
+				czoAYWRyaWFucDoAZGV2ZWxvcG1lbnQ6AGphdmFzY3Jp
+				cHQ6AGphdmFzY3JpcHQtdHV0b3JpYWw6AGRvdWc6AGlu
+				ZGV4Lmh0bWwAAA4AFgAKAGkAbgBkAGUAeAAuAGgAdABt
+				AGwADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQA
+				EgBIVXNlcnMvYWRyaWFucC9kZXZlbG9wbWVudC9qYXZh
+				c2NyaXB0L2phdmFzY3JpcHQtdHV0b3JpYWwvZG91Zy9p
+				bmRleC5odG1sABMAAS8AABUAAgAO//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/adrianp/development/javascript/javascript-tutorial/doug/index.html</string>
+				<key>RelativePath</key>
+				<string>./doug/index.html</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>index.html</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>50EBAC83-D5C3-4E1D-BF92-AD2205777AEA</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAFwAAIAAQxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADGOtwUSCsAAACQvz8CanMAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAJC/RcpeOyYAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2pxdWVyeS11aS0x
+				AAAQAAgAAMY6zgQAAAARAAgAAMpeLRYAAAABABAAkL8/
+				AAqa1QAKmrsAAIXtAAIAN01hY2ludG9zaCBIRDpVc2Vy
+				czoAYWRyaWFucDoARG93bmxvYWRzOgBqcXVlcnktdWkt
+				MToAanMAAA4ABgACAGoAcwAPABoADABNAGEAYwBpAG4A
+				dABvAHMAaAAgAEgARAASACZVc2Vycy9hZHJpYW5wL0Rv
+				d25sb2Fkcy9qcXVlcnktdWktMS9qcwATAAEvAAAVAAIA
+				Dv//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/adrianp/Downloads/jquery-ui-1/js/</string>
+				<key>RelativePath</key>
+				<string>../../../Downloads/jquery-ui-1/js</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>js</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+		<key>5C73FB5A-48BA-4C0D-898C-92709BDE92C6</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGwAAIAAQxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADGOtwUSCsAAACQvz8SZGV2ZWxvcG1lbnQtYnVu
+				ZGxlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAJC/QspeOyYAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2pxdWVyeS11aS0x
+				AAAQAAgAAMY6zgQAAAARAAgAAMpeLRYAAAABABAAkL8/
+				AAqa1QAKmrsAAIXtAAIAR01hY2ludG9zaCBIRDpVc2Vy
+				czoAYWRyaWFucDoARG93bmxvYWRzOgBqcXVlcnktdWkt
+				MToAZGV2ZWxvcG1lbnQtYnVuZGxlAAAOACYAEgBkAGUA
+				dgBlAGwAbwBwAG0AZQBuAHQALQBiAHUAbgBkAGwAZQAP
+				ABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADZV
+				c2Vycy9hZHJpYW5wL0Rvd25sb2Fkcy9qcXVlcnktdWkt
+				MS9kZXZlbG9wbWVudC1idW5kbGUAEwABLwAAFQACAA7/
+				/wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/adrianp/Downloads/jquery-ui-1/development-bundle/</string>
+				<key>RelativePath</key>
+				<string>../../../Downloads/jquery-ui-1/development-bundle</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>development-bundle</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
 		</dict>
 		<key>75099DCB-67D2-4B19-B8A1-6803D29D85B6</key>
 		<dict>
@@ -411,6 +547,41 @@
 			</dict>
 			<key>ItemName</key>
 			<string>ajax-tutorial.html</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+		</dict>
+		<key>D4A74437-5455-413A-B9D8-1A727CF8C257</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADGOtwUSCsAAACQkHYKZm9ybXMuanNvbgAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAJC+jMpeM99URVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABGRvdWcAEAAIAADG
+				Os4EAAAAEQAIAADKXiXPAAAAAQAYAJCQdgCQBdwAj/Dz
+				AFuusQAKmrsAAIXtAAIAW01hY2ludG9zaCBIRDpVc2Vy
+				czoAYWRyaWFucDoAZGV2ZWxvcG1lbnQ6AGphdmFzY3Jp
+				cHQ6AGphdmFzY3JpcHQtdHV0b3JpYWw6AGRvdWc6AGZv
+				cm1zLmpzb24AAA4AFgAKAGYAbwByAG0AcwAuAGoAcwBv
+				AG4ADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQA
+				EgBIVXNlcnMvYWRyaWFucC9kZXZlbG9wbWVudC9qYXZh
+				c2NyaXB0L2phdmFzY3JpcHQtdHV0b3JpYWwvZG91Zy9m
+				b3Jtcy5qc29uABMAAS8AABUAAgAO//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/adrianp/development/javascript/javascript-tutorial/doug/forms.json</string>
+				<key>RelativePath</key>
+				<string>./doug/forms.json</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>forms.json</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 		</dict>
