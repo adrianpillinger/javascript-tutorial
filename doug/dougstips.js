@@ -1,19 +1,52 @@
 $(document).ready(function() {
-    var that = this;
-    var name = "My Application's Name";
-    var myApplication = {
-            getName : function() {return name},
-            setName : function(newName) {name = newName}
-            };
-    
-    $.myApplication = myApplication;
+    $.ajax({
+        url: 'forms.json',
+        success: function( data ) {
+            var questions = data['questions'];
+            
+            // form title
+            $('#questions').append('<h1>' + data['formName'] + '</h1>');
+            
+            // questions
+            for (i=0;i<questions.length;i++)
+            {
+                $('#questions').append('<p/>' + questions[i]["question"]);
+            }
+        },
+        error: function(data) {
+            alert('Error Status: ' + data["statusText"]);
+        }
+    });
 });
 
-$(document).ready(function() {
-    alert($.myApplication.getName());
-    $.myApplication.setName("new name");
-    alert($.myApplication.getName());
-});
+
+
+
+
+
+
+
+
+
+
+
+
+//$(document).ready(function() {
+//    var that = this;
+//    var name = "My Application's Name";
+//    var myApplication = {
+//            getName : function() {return name},
+//            setName : function(newName) {name = newName}
+//            };
+//    
+//    $.myApplication = myApplication;
+//});
+
+//$(document).ready(function() {
+//    alert($.myApplication.getName());
+//    $.myApplication.setName("new name");
+//    alert($.myApplication.getName());
+//});
 
 var dougstips = {};
 var initialS46 = {

@@ -1,0 +1,7 @@
+{
+    "formName" : "Inspection 1",
+    "questions" : [
+                    {"question" : "What is your name?", "answerType" : "FREE_TEXT", "min" : 0, "max" : 255},
+                    {"question" : "What is your date of birth?", "answerType" : "DATE"}
+                ]
+} 
